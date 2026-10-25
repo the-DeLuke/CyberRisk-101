@@ -60,7 +60,7 @@ Ten candidate risk scenarios were assessed.
 This project is a hypothetical, desk-based assessment. No live website testing, penetration testing, or vulnerability scanning was performed. The identified risks are candidate scenarios, not confirmed vulnerabilities. Existing controls are unverified, and residual-risk scores are illustrative estimates.
 
 ## Explanatory Video
-**Project walkthrough:** Add your video link here after uploading your recording.
+**Project walkthrough:https://drive.google.com/file/d/1HxCeccK2k3IiL8dUXCH-2TZn0qK-MIvU/view?usp=sharing
 
 ---
 *Prepared as part of a cybersecurity internship project.*
